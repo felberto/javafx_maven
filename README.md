@@ -11,7 +11,7 @@ Make sure `JAVA_HOME` is properly set to the JDK installation directory.
 
 If you run on Windows, follow these steps:
 
-    cd HelloFX\Maven\hellofx
+    cd javafx_maven
 
 To run the project:
     
